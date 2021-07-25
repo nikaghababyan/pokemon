@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Pokemon App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="type">Type:</string>
+    <string name="attack">Attack:</string>
+    <string name="defense">Defense:</string>
+    <string name="hp">Hp:</string>
+    <string name="filtr_hp">Filtr Hp</string>
+    <string name="filtr_attack">Filtr Attack</string>
+    <string name="filtr_defence">Filtr Defence</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+</resources>
